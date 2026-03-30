@@ -3,7 +3,7 @@
 Estudante de Engenharia de Software na **FIAP (1º Semestre)**. Atualmente focado em construir uma base sólida em lógica de programação, automação com Python e desenvolvimento web.
 
 ### 📚 Aprendendo Atualmente
-- **Linguagens:** Python, JavaScript, HTML5
+- **Linguagens:** Python, JavaScript, HTML
 - **Ferramentas:** Git, GitHub, VS Code
 
 ### 🏫 Acadêmico
